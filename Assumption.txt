@@ -1,0 +1,1 @@
+One assumption I made while making the Sequence and Activity Diagrams was that the there was going to be loop for every time there was no availability in the facility that the renter was request. Instead of just asking once if the renter would like to choose different dates/facilities, the program would ask them multiple times each time it request gets rejected.
